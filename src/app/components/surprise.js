@@ -8,7 +8,7 @@ const Surprise = () => {
           .getElementById("pfp")
           .setAttribute(
             "src",
-            "https://i1.sndcdn.com/artworks-XJdVplPCbvDvJlH7-jF9c4A-t500x500.jpg"
+            "https://media.tenor.com/o656qFKDzeUAAAAC/rick-astley-never-gonna-give-you-up.gif"
           );
       }}
       className="bg-white p-2 px-3 text-[#082F49] hover:opacity-80 duration-300 font-extrabold rounded"
